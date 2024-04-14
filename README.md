@@ -15,12 +15,12 @@ Life of software engineer is short but brilliant.
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
 ## ❤️ Cool Things I love ❤️##
-1. Visual Studio Code
+1. 👨‍💻 Visual Studio Code
 2. Python, JavaScript, Java
 3. PosgresQL, MSSQL, MySQL
-4. ThinkPad, iPad, iPhone
-6. My beautiful wife and lovely sons
-7. Latte Coffee
+4. ThinkPad💻, iPad, iPhone📱
+6. My beautiful wife 👧 and lovely sons👦
+7. Latte Coffee ☕
 8. 🇬🇧 (United Kingdom), 🇭🇰 (Hong Kong) and travel around.
 
 
