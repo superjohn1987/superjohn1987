@@ -21,7 +21,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 4. ThinkPad, iPad, iPhone
 6. My beautiful wife and lovely sons
 7. Latte Coffee
-8. UK, Hong Kong and travel around.
+8. 🇬🇧 (United Kingdom), 🇭🇰 (Hong Kong) and travel around.
 
 
 
